@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_demo_switch" type="id" />
+    <item name="id_param_tv2a" type="id" />
+    <item name="id_param_tv2b" type="id" />
+</resources>

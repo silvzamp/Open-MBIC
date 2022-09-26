@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Open-MBIC</string>
+    <string name="flush">FLUSH</string>
+    <string name="demo">DEMO</string>
+    <string name="tx_to_server">Real-time TX</string>
+    <string name="connect_to_ip_server">Connect to IP server:</string>
+    <string name="Oxyparam_will_be_shown_here">Oxy Monitor</string>
+    <string name="read">READ</string>
+    <string name="scan">SCAN</string>
+    <string name="HR_will_be_shown_here">Heart Rate</string>
+    <string name="ecg_will_be_shown_here">ECG</string>
+    <string name="to_save">Local data rec</string>
+    <string name="restart">RESTART</string>
+    <string name="type_server_ip_address_here">Type server ip address here</string>
+</resources>
